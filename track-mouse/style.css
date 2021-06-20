@@ -6,8 +6,8 @@ body {
 }
 
 .dot {
-    width: 10px;
-    height: 10px;
+    width: 2px;
+    height: 2px;
     background-color: #000;
     position: absolute;
 }
